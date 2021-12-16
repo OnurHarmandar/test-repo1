@@ -1,1 +1,5 @@
 work on new project
+
+second part of file 3
+
+third part of file 3
